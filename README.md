@@ -10,4 +10,4 @@ First screen has two buttons
  2. Existing Alarm
 When button "New Alarm" is clicked we navigate to next screen where we can set alarm
 When button "Existing Alarm" is clicked then we get to a screen where we have list of all the alarms that is being set.
-So this interface helps me to develop my app in an efficient way. This helps to set alarm in next screen.
+So this interface helps me to develop my app in an efficient way. This helps to set alarm in next screen and set number of questions for the application and set alarm tone and application name.
